@@ -1,0 +1,117 @@
+funktion;kategorie;beschreibung;highlight
+Blackoutmanagement;Energiemanagement;Sicherheitsstrategien und automatische Umschaltung im Falle eines Stromausfalls.;
+Dieselaggregat;Energiemanagement;Integration eines Dieselgenerators als Backup-Energiequelle bei Netzunterbrechung.;
+EZA-Regelung;Energiemanagement;Elektrische Zentralanlagesteuerung nach Norm zur Leistungskoordination.;
+Eigenverbrauchsoptimierung;Energiemanagement;Maximiert den Eigenverbrauch von Solar- und Speicherstrom durch intelligente Steuerung.;Ja
+Einspeisebegrenzung;Energiemanagement;Begrenzt die Einspeisung ins öffentliche Netz nach Vorgabe oder Tarifbedingungen.;
+Fahrplanintegration;Energiemanagement;Plant Energieströme basierend auf Zeit- oder Verbrauchsplänen für Bedarfssteuerung.;Ja
+Heizstab;Energiemanagement;Integration elektrisch beheizter Stäbe zur Lastflexibilität bei Überkapazität.;
+Lasten;Energiemanagement;Verwaltet flexible Verbraucher-Lasten wie Wärmepumpe, Ladesäule oder Heizung.;
+Lastspitzenkappung;Energiemanagement;Verhindert hohe Lastspitzen durch intelligente Steuerung verbundener Verbraucher.;
+Notstrombetrieb;Energiemanagement;Automatische Umschaltung auf Inselbetrieb bei Netz-Ausfall.;
+Nulleinspeisung;Energiemanagement;Vermeidet Netzeinspeisung z. B. bei hohem Eigenverbrauch.;
+Regelenergie;Energiemanagement;Handel und Teilnahme am Regelenergiemarkt zur Netzstabilisierung.;
+SPOT Markt;Energiemanagement;Teilnahme am Strommarkt zu Spotpreisen zur Optimierung der Energiekosten.;Ja
+Standortübergreifend;Energiemanagement;Monitoring, Steuerung und Analyse von mehreren Standorten zentralisiert.;Ja
+String-Auswertung;Energiemanagement;Analyse einzelner PV‑Modulstränge zur Erkennung von Leistungsverlusten, Zellenschäden oder Verschmutzung.;
+String-Auswertung (PV);Energiemanagement;Analysiert einzelne PV-Modulstränge für detailliertes Monitoring und Fehlerdiagnose.;
+Stromspeicher;Energiemanagement;Speicherung und Nutzung von Batteriespeicherenergie nach Bedarf oder Tarif.;
+USV-Anlagen;Energiemanagement;Unterstützt unterbrechungsfreien Betrieb sensibler Verbraucher bei Netzausfall.;
+Wechselrichter;Energiemanagement;Verwaltet und überwacht PV-Wechselrichter inklusive Leistungs- und Fehlerdaten.;Ja
+Wetterdaten;Energiemanagement;Nutzt Wetterprognosen für präzise Last- und Ertragsplanung.;
+Wärmepumpe;Energiemanagement;Steuert Wärmepumpen zur effizienten Lastverschiebung und Energieoptimierung.;
+Abrechnungsdaten;Energiemonitoring;Erfasst und verwaltet Daten für die korrekte Abrechnung von Energie- und Ladevorgängen.;Ja
+Dashboard;Energiemonitoring;Zentrale Übersicht zur Visualisierung und Steuerung der Ladeinfrastruktur.;
+Dashboard;Energiemonitoring;Zentrale Visualisierung der Energieflüsse und KPIs für Nutzer oder Admins.;
+Echtzeitdaten;Energiemonitoring;Anzeige aktueller Energieströme und Verbrauchswerte im Dashboard.;
+Energiebuchhaltung;Energiemonitoring;Erstellt Verbrauchszahlen und Kostenübersichten für buchhalterische Zwecke.;Ja
+Exports;Energiemonitoring;Exportfunktion für Energiedaten in Formaten wie CSV oder XLSX.;
+Historische Daten;Energiemonitoring;Speicherung und Zugriff auf vergangene Energie- und Verbrauchsdaten.;
+ISO50001;Energiemonitoring;Unterstützt das Energieeffizienzmanagement gemäß ISO 50001 Standards.;
+Live-Displays;Energiemonitoring;Direktanzeigen am Standort, z. B. digitale Info-Screens für Nutzer oder Besucher.;
+Virtuelle Zähler;Energiemonitoring;Logische Zähler zur Unterteilung, Aggregation oder Simulation von Zählpunkten.;
+$14a Regelung;E-Mobilität;Unterstützung für E‑Mobilitätsförderung gemäß §14a E‑Mobilitätsgesetz zur Kostensenkung für Nutzer.;
+Abrechnungen;E-Mobilität;Ermöglicht Erstellung und Nachverfolgung von Ladeabrechnungen im E-Mobilitätsbetrieb.;Ja
+Anbindung Fremdbackend;E-Mobilität;Schnittstelle zu externen Systemen zur Steuerung, Abrechnung oder Reporting.;
+Auth. Kiosk;E-Mobilität;Zugangskontrolle via Terminal am Ladepunkt, Nutzer authentifizieren sich vor dem Laden.;
+Autocharge;E-Mobilität;Automatisches Laden bei vordefinierten Bedingungen wie PV-Überschuss oder günstigem Tarif.;
+Betriebszeiten;E-Mobilität;Ladevorgänge erfolgen nur innerhalb vordefinierter Zeitfenster – z. B. Firma, nachts, Wochenende.;
+Bezahlterminal;E-Mobilität;Integration von Zahlungssystemen direkt am Ladepunkt – z. B. Kreditkarte oder contactless.;Ja
+Dynamisches Lastmanagement;E-Mobilität;Passt Ladeleistung automatisch an Netzbedingungen und verfügbare Leistung an.;Ja
+Echtzeitdaten;E-Mobilität;Zeitnahe Anzeige von Lade- und Statusdaten der E‑Fahrzeuge in Echtzeit.;
+E-Control-Anbindung;E-Mobilität;Schnittstelle zur österreichischen E‑Control für Netzanmeldung und regulatorische Prozesse.;
+Fahrplan Integration;E-Mobilität;Verknüpft Ladevorgänge mit Fahrzeugfahrplänen – z. B. Busbetrieb, sharing.;
+Gästekarten;E-Mobilität;Ermöglicht temporäre Ladezugänge für Gäste oder Kurzzeitnutzer.;
+Kostenstellen;E-Mobilität;Verknüpft Ladevorgänge mit internen Kostenstellen zur transparenten Kostenverfolgung.;
+Ladecluster;E-Mobilität;Optimiert das gleichzeitige Laden mehrerer Fahrzeuge an einem Standort.;JA
+Ladenachweis;E-Mobilität;Erfasst automatisiert Ladezeiten, Energiemengen und Nutzer inklusive Zeitstempel.;
+Lastmanagement;E-Mobilität;Steuert die Lastverteilung auf angeschlossene Ladepunkte zur Netz- und Gerätesicherheit.;
+Leistungsbegrenzung;E-Mobilität;Setzt maximal zulässige Ladeleistung pro Fahrzeug oder Anschluss.;
+Nachtladen;E-Mobilität;Automatisches Laden in Nachtzeiten mit günstigem Stromtarif.;
+PV Überschuss;E-Mobilität;Lädt bevorzugt bei überschüssiger PV-Produktion zur Eigenverbrauchsoptimierung.;Ja
+Personalisierte Visualisierung;E-Mobilität;Zeigt individuelle Nutzerdaten und Statistiken im UI an.;
+Priorisierung;E-Mobilität;Bestimmt, welche Fahrzeuge beim Laden bevorzugt bedient werden.;
+RFID-Kartenverwaltung;E-Mobilität;Verwaltet Nutzerzugänge und Berechtigungen via RFID-Karten.;
+Rabattkarten;E-Mobilität;Verwaltet Zugangskarten mit Rabattberechtigungen und Sondertarifen.;
+SPOT Markt Laden;E-Mobilität;Lädt zu günstigen Spotmarkt-Preisen – automatische Anpassung nach Börsendaten.;Ja
+Schieflast;E-Mobilität;Verhindert Phasenungleichgewichte durch Steuerung einzelner Ladephasen.;
+Sekretariatsansicht;E-Mobilität;Spezieller UI-Modus für administrative Benutzer mit Überblick über Systeme.;
+Tarife;E-Mobilität;Allgemein konfigurierbare Preismodelle für das Laden.;
+V2G;E-Mobilität;Bidirektionales Laden – Fahrzeug kann Strom zurückspeisen ins Netz (Vehicle-to-Grid).;
+V2H;E-Mobilität;Bidirektionales Laden – Fahrzeug speist Strom ins Hausnetz (Vehicle-to-Home).;
+V2X;E-Mobilität;Bidirektionales Laden für verschiedene Verbraucher – Gebäude, Netz oder andere Fahrzeuge.;
+Anomalieerkennung (PV);KI-Applikationen;KI-basierte Erkennung von Leistungsabweichungen in PV-Anlagen durch Datenanalyse.;Ja
+PV Ertragsprognose;KI-Applikationen;Berechnet zukünftige PV-Erträge mit Hilfe von Wetter- und historischen Leistungsdaten.;
+Smart-Charging;KI-Applikationen;Intelligentes Laden unter Berücksichtigung von Kosten, PV/Netzlast und Fahrzeugkapazität.;
+Verbrauchsprognose;KI-Applikationen;Prognostiziert zukünftige Energieverbräuche zur Optimierung des Systembetriebs.;Ja
+API-Schnittstellen;Plattform;Öffnet Daten und Funktionen über REST- oder SOAP-Schnittstellen für externe Systeme.;
+Alarmierungen;Plattform;Sendet Benachrichtungen (E-Mail, SMS, Push) bei definierten Schwellenwerten oder Fehlern.;
+Anbindung an Buchhaltungssysteme;Plattform;Synchronisiert Finanz- und Abrechnungsdaten mit ERP- oder Buchhaltungssoftware.;Ja
+Anbindung an Optimierungssysteme;Plattform;Ermöglicht automatische Steuerung durch externe Optimierer oder Energie-Controller.;
+Anbindung an Telematiksystem;Plattform;Verknüpft Fahrzeug- und Standortdaten via Telematik für effizientes Flottenmanagement.;
+Anbindung an Trading-Systeme;Plattform;Verbindet Energiemengen mit Handelsplattformen für Strom- oder Flexibilitätsmärkte.;
+Audit-Log;Plattform;Protokolliert System- und Benutzeraktivitäten zur Nachverfolgung und Compliance.;
+Benutzerverwaltung;Plattform;Verwaltung von Nutzerkonten, Rollen und Berechtigungen im System.;Ja
+Berechtigungssystem;Plattform;Steuert Zugriffsrechte granular auf Funktionen, Daten und Konfigurationen.;
+Datenexport;Plattform;Exportiert System- und Energiedaten für externe Auswertung oder Archivierung.;
+Dokumentenablage;Plattform;Zentrale Speicherung und Verwaltung relevanter System- und Nutzerdokumente.;
+Fahrzeug Verwaltung;Plattform;Erfasst und verwaltet Fuhrparkdaten inklusive Fahrzeugstatus und Ladehistorie.;
+Kartenansicht;Plattform;Visualisiert Standorte und Infrastruktur auf interaktiven Karten.;
+Kontaktpersonen;Plattform;Verwaltet Ansprechpartner, Verantwortliche und Kontaktdaten zu Standorten.;
+Multi-Mandant;Plattform;Unterstützt mehrere Kunden- oder Mandantenumgebungen in einer Instanz.;
+Newsletter;Plattform;Versendet automatisierte E-Mail-Updates zu Systemstatus, Berichten oder Events.;
+Reports;Plattform;Erstellung und Planung regelmäßiger Berichte zu Energieverbrauch und -leistungen.;
+Statistik;Plattform;Analysiert und zeigt KPI-Statistiken zur Unterstützung von Entscheidungen.;Ja
+System-Log;Plattform;Erfasst Systemereignisse und Fehler zur Fehleranalyse und Wartung.;
+Visualisierung;Plattform;Bereitet Daten in Form von Diagrammen, Karten oder Dashboards auf.;Ja
+Wartungspläne;Plattform;Planung, Zuweisung und Nachverfolgung von Wartungsarbeiten.;
+Anbindung Day-Aheadmarkt;Strombörse;Ermöglicht die Teilnahme am Day-Ahead-Handel mit automatischer Angebotslogik.;
+Anbindung Intradaymarkt;Strombörse;BindetIntraday-Handelssysteme zur flexiblen Energievermarktung ein.;
+Anbindung Regelenergiemarkt;Strombörse;Verbindet Speicher oder steuerbare Lasten mit Regelenergiemärkten zur Netzstabilisierung.;
+Bezahlterminal;Abrechnungen;Zahlmodul für direkte Bezahlung vor Ort, unterstützt verschiedene Bezahlmethoden.;
+Fiskalisierung;Abrechnungen;Erfüllt gesetzliche Anforderungen an Belegbelege und sichere Speicherung steuerrelevanter Daten.;
+Fixe Tarife;Abrechnungen;Statische Preisstrukturen für Lade- und Energienutzung, unabhängig von Zeit oder Verbrauch.;
+Flexible Tarife;Abrechnungen;Preise passen sich zeitabhängig oder nach Nutzung an – ideal für zeitvariable Kostenstrukturen.;Ja
+Gemischte Tarife;Abrechnungen;Kombination aus festen Grundgebühren und variablen verbrauchsabhängigen Komponenten.;
+Manuelle Eingabe von Zählerdaten;Abrechnungen;Ermöglicht bei Bedarf die händische Erfassung von Zählerständen für Abrechnungszwecke.;
+Rechnungserstellung;Abrechnungen;Generiert formale Rechnungen für Nutzer oder Firmen mit allen relevanten Details.;
+Tarife pro Benutzer;Abrechnungen;Individuelle Preisgestaltung je Nutzerkonto, Anpassung an Nutzerprofile möglich.;
+Tarife pro Bezahlterminal;Abrechnungen;Terminalabhängige Preisoptionen, z. B. Premium-Zahlung oder Rabattcode.;
+Tarife pro Karte;Abrechnungen;Bietet differenzierte Preise abhängig von RFID- oder Nutzerkarte.;
+Tarife pro Ladestation;Abrechnungen;Stationenspezifische Tarifdefinition mit individuellen Konditionen.;
+Tarife pro Standort;Abrechnungen;Standortbezogene Preisstrukturen – z. B. Firmengelände vs. öffentlich.;
+Tarife pro Unternehmen;Abrechnungen;Individuelle Tarifmodelle je Unternehmenseinheit oder Contracting-Partner.;
+Tarife pro Zähler;Abrechnungen;Ermöglicht Preisgestaltung je Mess- oder Zählergerät für präzise Abrechnung.;
+Abrechnung;Energiegemeinschaften;Erfasst und verarbeitet Abrechnungsdaten innerhalb von Energiegemeinschaften inkl. Kostenverteilung und Buchungsnachweis.;Ja
+Anbindung EDA;Energiegemeinschaften;Verbindung zum österreichischen Energie-Daten-Austausch (EDA) zur Marktkommunikation.;
+Automatische Datenanfrage;Energiegemeinschaften;Fordert automatisch notwendige Verbrauchs- und Einspeisedaten von Netzbetreibern oder Marktplattformen an.;
+Verwaltung Netzbetreiber;Energiegemeinschaften;Pflegt Netzbetreiberdaten zur Koordination technischer Prozesse und Marktkommunikation.;
+Verwaltung von Energiegemeinschaften;Energiegemeinschaften;Ermöglicht die strukturierte Verwaltung von Teilnehmern, Rollen und Abrechnungslogiken.;Ja
+Übergeordnete Optimierung;Energiegemeinschaften;Koordiniert Energieflüsse zwischen Mitgliedern zur Maximierung des Eigenverbrauchs und der Kosteneffizienz.;
+Anbindung via IEC 101/104;Smart-Grid;Stellt eine standardisierte Netzschnittstelle für Steuerungs- und Überwachungsfunktionen bereit.;
+Digitale Schnittstelle (EVSE/Grid);Smart-Grid;Bindet Ladeinfrastruktur an Netzbetreiber oder Energiemanagementsysteme an.;
+Kraftwerks Monitoring;Smart-Grid;Überwacht Leistungsdaten von Erzeugungsanlagen zur Netzstabilität und Betriebsoptimierung.;Ja
+Netz-Controller;Smart-Grid;Koordiniert Energieflüsse und Einspeisegrenzen am Netzanschlusspunkt.;
+Technische Aggregation;Smart-Grid;Fasst mehrere Anlagen zu einem steuerbaren Aggregat für Netz- oder Marktintegration zusammen.;
+Trafostation Monitoring;Smart-Grid;Überwacht und analysiert Trafo-Lasten und Spannungsqualität in Echtzeit.;
+Smart City Light;Smart-City;Integration und Steuerung intelligenter Straßenbeleuchtungssysteme über die Plattform.;Ja
